@@ -11,4 +11,4 @@
 *** Stretch Goals: Everything after this line is optional ***
 *** These tests are optional, any work you do to comeplete these tests is extra. That being said, having  exposure to these concepts and attempting them is recommended. The better you understand these concepts, the better your experience will be at Avion School. ***  
 
-2. Uncoment lines 7 through 108 in the file `DOM.test.js` from the `tests` folder within this `Homework` folder. Then, from the top level of your `Precourse-batch3` folder, run `npm test L12/Homework/tests/DOM.test.js` to run the automated tests. You will fill out the functions in `DOMhomework.js` to make the tests pass.
+2. Uncoment lines 7 through 108 in the file `DOM.test.js` from the `tests` folder within this `Homework` folder. Then, from the top level of your `Precourse` folder, run `npm test L12/Homework/tests/DOM.test.js` to run the automated tests. You will fill out the functions in `DOMhomework.js` to make the tests pass.

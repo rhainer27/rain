@@ -6,4 +6,4 @@
 		
 	* Callback Functions
 
-2. From the top level of your `Precourse-batch3` folder, run `npm test L9/Homework/tests/JSVI.test.js` to run the automated tests. You will fill out the functions in `homework.js` to make the tests pass.
+2. From the top level of your `Precourse` folder, run `npm test L9/Homework/tests/JSVI.test.js` to run the automated tests. You will fill out the functions in `homework.js` to make the tests pass.

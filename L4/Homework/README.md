@@ -13,4 +13,4 @@
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
 
-3. From the top level of your `Precourse-batch3` folder, run `npm test L4/Homework/tests/JSI.test.js` to run the automated tests.  At first all of the tests will be broken.  You will fill out the functions in `homework.js` to make the tests pass.
+3. From the top level of your `Precourse` folder, run `npm test L4/Homework/tests/JSI.test.js` to run the automated tests.  At first all of the tests will be broken.  You will fill out the functions in `homework.js` to make the tests pass.
