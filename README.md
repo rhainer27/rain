@@ -1,8 +1,6 @@
 # 👊 Welcome to Avion School!
 
-👋 Hello, Student!
-
-🚀 Welcome to Avion School, and congratulations on taking your first step into becoming a software engineer!
+👋 Hello, Student! Congratulations on taking your first step into becoming a software engineer!
 
 🙇🏽‍♂ The first thing we tell our students is that you must commit to working harder than you ever have before. The time you put in now will return in volumes as we push you to a high-paying career in tech.
 
