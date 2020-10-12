@@ -8,7 +8,7 @@ While we haven't started our lectures yet, do check out the files inside of this
 
 ### Follow your instructor in forking the repository and cloning it to your local repository.
 
-- [ ] Create a forked copy of the Precourse-batch3 repository.
+- [ ] Create a forked copy of the Precourse repository.
 - [ ] Clone OWN version of repository inside your AvionSchool folder.
 - [ ] Open the index.html file of the folder Lesson 1/ Git Fundamentals, HTML & CSS Exercise.
 - [ ] Make the following edits and introduce yourself:
