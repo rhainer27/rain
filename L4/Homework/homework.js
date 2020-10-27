@@ -20,7 +20,7 @@ const newModulo = 21 % 5 === null ;
 
 
 
-//In the next 22 problems you will compete the function. All of your code will go inside of the function braces. 
+//In the next 22 problems you will complete the function. All of your code will go inside of the function braces. 
 //Make sure you use return when the prompt asks you to.
 //hint: console.log() will NOT work. 
 //Do not change any of the function names
