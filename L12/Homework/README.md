@@ -8,4 +8,4 @@
 	* DOM element selectors
 	* DOM events
 
-2. Uncomment lines 7 through 108 in the file `DOM.test.js` from the `tests` folder within this `Homework` folder. Then, from the top level of your `Precourse` folder, run `npm test L12/Homework/tests/DOM.test.js` to run the automated tests. You will fill out the functions in `DOMhomework.js` to make the tests pass.
+2. From the top level of your `Precourse` folder, run `npm test L12/Homework/tests/DOM.test.js` to run the automated tests. You will fill out the functions in `DOMhomework.js` to make the tests pass.

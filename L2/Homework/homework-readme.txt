@@ -1,6 +1,5 @@
 These are the instructions for the homework for Lesson 2 - HTML/CSS Fundamentals.
 
-Now that you have watched us create an HTML file and external style sheet you will do one of your own. 
 You will be writing all of your code in homework.html found in this folder.
 To view your HTML file, in your web browser select File-Open File- then select the homework.html file in this folder. 
 
@@ -17,8 +16,7 @@ I. Create a basic HTML page.
       * an 'a' element linking to your favorite restaurant.
     3. In the third div create:
       * an an unordered list with two list items
-      * an img tag in each list item linking to your favorite food. (Use Google image search to find a photo, if you can't 
-        use this address: "http://http://lorempixel.com/400/200/food/").
+      * an img tag in each list item linking to your favorite food. (Use Google image search to find a photo).
 
 II. Add some style
   A. Add style tags to your HTML document.

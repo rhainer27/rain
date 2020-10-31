@@ -6,4 +6,4 @@
 
 	* Recursion
 
-2. lines 7 through 29 in the file `JSVIII.test.js` in the `tests` folder in this `Homework` folder. Then, from the top level of your `Precourse` folder, run `npm test L11/Homework/tests/JSVIII.test.js` to run the automated tests. You will fill out the functions in `homework.js` to make the tests pass.
+2. From the top level of your `Precourse` folder, run `npm test L11/Homework/tests/JSVIII.test.js` to run the automated tests. You will fill out the functions in `homework.js` to make the tests pass.
