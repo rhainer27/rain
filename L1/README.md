@@ -12,7 +12,7 @@ While we haven't started our lectures yet, do check out the files inside of this
 - [ ] Make the following edits and introduce yourself:
 
 [1st Part]
-1. Figure out how to change the name "John" to your name.
+1. Figure out how to change the text "John" to your name.
 2. Below your name, tell us what you're doing now and why you want to become a software engineer.
 3. Change the picture to yours.
 4. Tell us 3 things about you. (i.e what you enjoy doing, your hobbies. Give us a glimpse into your life!)
