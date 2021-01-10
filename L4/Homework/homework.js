@@ -1,15 +1,15 @@
-//In these first 6 questions, replace `null` with the answer
+//In these first 6 questions, replace `null` with the answer.
 
-//create a string variable, it can contain anything
+//Create a string variable. It can contain anything
 const newString = null ;
 
-//create a number variable, it an be any number
+//Create a number variable. It an be any number
 const newNum = null ;
 
-//create a boolean variable
+//Create a boolean variable.
 const newBool = null ;
 
-//solve the following math problem
+//Solve the following math problem.
 const newSubtract = 10 - null === 5;
 
 //Solve the following math problem
@@ -23,12 +23,10 @@ const newModulo = 21 % 5 === null ;
 //In the next 22 problems you will complete the function. All of your code will go inside of the function braces. 
 //Make sure you use return when the prompt asks you to.
 //hint: console.log() will NOT work. 
-//Do not change any of the function names
+//Do not change any of the function names.
 
-//Example 1:
 function returnString(str) {
-  //simply return the string provided: str
-  return str;
+  //return the string provided: str
 }
 
 function add(x, y) {
