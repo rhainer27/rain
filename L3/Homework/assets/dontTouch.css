@@ -1,5 +1,5 @@
 body {
-  background: #e5efff;
+  background: #F5F7FB;
   margin: 95px 0 100px 0;
   color: #383f49;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -22,7 +22,7 @@ body {
 #moveBoxContainer {
   width: 1000px;
   height: 500px;
-  border: 5px solid #1970fc;
+  border: 5px solid #A8443C;
   background-color: #bdd6fc;
   margin-left: auto;
   margin-right: auto;
@@ -51,12 +51,13 @@ body {
   display: block;
   width: 100vw;
   height: 70px;
-  background-color: #1970fc;
+  background-color: #F5F7FB;
+  border: 3px solid #A8443C;
 }
 
 #exerciseFive span {
   font-size: 20px;
-  color: white;
+  color: #A8443C;
 }
 
 #exerciseFive {
