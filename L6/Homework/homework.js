@@ -1,9 +1,7 @@
 // Do not change any of the function names
 
-//Example 1:
 function returnFirst(arr) {
   // return the first item from the array
-  return arr[0];
 }
 
 function returnLast(arr) {
