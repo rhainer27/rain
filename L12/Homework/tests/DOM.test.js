@@ -5,7 +5,7 @@ describe('Test suite runs', () => {
 })
 
 const html = require('fs')
-  .readFileSync('./L12/homework/index.html')
+  .readFileSync('./L12/Homework/index.html')
   .toString();
 
 document.documentElement.innerHTML = html;
